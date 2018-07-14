@@ -1,2 +1,2 @@
 # Projects
-All the Projects Done in BE
+MIT APP INVENTOR BASED ON EDUCATIONAL THEME
